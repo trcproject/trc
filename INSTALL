@@ -1,0 +1,7 @@
+Building TorCash
+
+
+See the TorCash github wiki (https://github.com/tordotcash/torcash) for instructions on building torcashd,
+
+the intended-for-services, no-graphical-interface, reference
+implementation of TorCash.
